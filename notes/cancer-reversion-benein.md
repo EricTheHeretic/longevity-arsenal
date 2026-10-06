@@ -1,21 +1,25 @@
-# Cancer reversion — BENEIN / KAIST
+# BENEIN cancer reversion (colon)
 
-Added 2026-10-06. Source post: https://x.com/BrianRoemmele/status/2107318368764391582
+Saved 2026-10-06. Research note. Not a medicine.
 
-**Paper:** Jeong-Ryeol Gong, Chun-Kyung Lee, Hoon-Min Kim, et al., Kwang-Hyun Cho. Control of Cellular Differentiation Trajectories for Cancer Reversion. *Advanced Science* 12(3), 2025. DOI: 10.1002/advs.202402132. KAIST.
+## Source
 
-## What it is
+- Gong JR, Lee CK, Kim HM, Kim J, Jeon J, Park S, Cho KH. *Control of Cellular Differentiation Trajectories for Cancer Reversion.* Advanced Science. 2025;12(3):2402132. First published 11 Dec 2024.
+- DOI: 10.1002/advs.202402132.
+- KAIST, Kwang-Hyun Cho.
 
-BENEIN (single-cell Boolean network inference and control) reads a single-cell transcriptome and proposes a small set of master regulators whose inhibition should push cells onto a normal differentiation path.
+## What it found
 
-Applied to human large-intestine data, it named MYB, HDAC2, and FOXA2. Simultaneous knockdown in three colorectal cancer cell lines and in xenograft mice pushed cells toward a normal-like enterocyte state: more differentiation, less malignancy, transcriptomes closer to adjacent normal tissue in TCGA.
+BENEIN (single-cell Boolean network inference and control) was applied to human large-intestine single-cell transcriptomes.
 
-This is reversion, not killing. The cell is steered, not poisoned.
+It named three master regulators whose joint inhibition pushes cells toward enterocyte differentiation: MYB, HDAC2, and FOXA2.
 
-## Why it is in the arsenal
-
-Same doctrine as partial reprogramming: change the program, keep the cell. If a cancer cell can be walked back to a differentiated state, the damage of treatment drops. The method is the transferable piece — a network-control loop that names a small target set, then checks it in cells and mice.
+Simultaneous knockdown in three colorectal cancer cell lines, and in xenograft mice, shifted malignant cells toward normal-like enterocytes and suppressed malignancy markers. The point of the paper is reversion by differentiation, not killing the cell.
 
 ## Limit
 
-Cell lines and xenografts. Not a human trial. Knockdown of three transcription factors is not a drug. Needs a deliverable inhibitor set, a tumor type where differentiation is the failure mode, and a trial that measures residual disease, not just a dish marker.
+Cell lines and mouse xenografts. No human trial. Triple knockdown is not a deliverable drug. Digital-twin framing in social posts oversells a Boolean network fit to existing single-cell data.
+
+## Why it is in the arsenal
+
+Same doctrine as partial reprogramming: change cell state instead of only destroying tissue. Cancer is a top cause of death. A reversion target set is a candidate for later genetic medicines, after delivery and a safety trial exist.
