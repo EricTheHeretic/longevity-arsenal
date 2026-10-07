@@ -10,6 +10,7 @@ Updated 2026-10-06. Research notes only.
 | [mdd-neurogenesis.md](mdd-neurogenesis.md) | Nature Medicine 2026. Adult hippocampal neurogenesis looks stalled in major depression. Postmortem. |
 | [cancer-reversion-benein.md](cancer-reversion-benein.md) | Advanced Science 2024/2025. BENEIN names MYB, HDAC2, FOXA2; knockdown reverts colon cancer cells in dishes and mice. |
 | [optogenetics-nobel-2026.md](optogenetics-nobel-2026.md) | 2026 Nobel. Light-gated neuron control. Method, not a drug. |
+| [psilocybin-aging.md](psilocybin-aging.md) | npj Aging 2025. Psilocin delays cell senescence; monthly psilocybin raised survival in old female mice. No human aging trial. |
 | [rumor-photon-memory-erasure.md](rumor-photon-memory-erasure.md) | Checked and rejected. No human photon memory eraser. |
 | [memory-light-rumor.md](memory-light-rumor.md) | Same rumor, earlier note. |
 
