@@ -82,6 +82,12 @@ Old mouse grafts looked younger in young hosts. Young grafts aged faster in old 
 
 **Humacyte ATEV (Symvess).** Lab-grown human vessel. Approved for some trauma repairs. Peripheral artery disease and critical-limb use are still in trials.
 
+## Spinal cord
+
+**Polylaminin.** Lima, Coelho-Sampaio et al., *Spinal Cord* 2026. DOI [10.1038/s41393-026-01238-6](https://doi.org/10.1038/s41393-026-01238-6).
+
+A stabilized laminin polymer, injected once into the cord. Eight people with acute complete traumatic spinal cord injury (AIS A), mean 2.3 days after injury. No serious event was attributed to the injection. Six participants improved by at least two AIS grades, including one who later died after reaching AIS C. Three deaths were judged unrelated. The authors say the open-label design cannot prove efficacy. The study began in 2016. As of October 2026 it is not an approved drug, and posts saying it will be given out free are false. Rat work showed axons crossing a lesion. That is not a human cure.
+
 ## Joints, bone, and muscle
 
 **15-PGDH inhibitor.** Singla, Blau, Bhutani et al., *Science* 2025. DOI [10.1126/science.adx6649](https://doi.org/10.1126/science.adx6649). PMID 41308124. Tool compound SW033291.
@@ -123,6 +129,12 @@ Psilocin delayed senescence in human cells (about 29% more doublings at 10 µM, 
 **SP6 / SP8 digit program.** PNAS 2026. Conserved epidermal factors in axolotl, zebrafish, and mouse digit tips. An injury-enhancer AAV driving FGF8 partly rescued mouse digit-tip bone. Not a human limb.
 
 **Limb-progenitor factors.** Prdm16, Zbtb16, and Lin28a can push mouse cells toward a limb-progenitor state. Human dish work is early.
+
+## One old animal, not a drug
+
+**Jonathan.** Vaisvil et al., *Science Advances*, 7 Oct 2026. DOI [10.1126/sciadv.adw8887](https://doi.org/10.1126/sciadv.adw8887).
+
+Genome and methylome of a 194-year-old Aldabra giant tortoise. He carries 287 unique gene variants in aging pathways, including DNA repair, inflammation, insulin, and tumor suppression. The methylation switches on his DNA-repair and metabolism genes, many of them mitochondrial, still look like those of much younger tortoises. One animal. A list of candidate genes, not a treatment, and not evidence those variants would do the same job in a person.
 
 ## Method, not a dose
 
