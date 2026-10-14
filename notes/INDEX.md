@@ -1,6 +1,8 @@
 # Notes index
 
-Updated 2026-10-06. Research notes only.
+Updated 2026-10-14. Research notes only.
+
+Read [ARSENAL.md](../ARSENAL.md) first. It is the consolidated file. The notes below are the source write-ups.
 
 | File | What it is |
 |---|---|
@@ -11,7 +13,9 @@ Updated 2026-10-06. Research notes only.
 | [cancer-reversion-benein.md](cancer-reversion-benein.md) | Advanced Science 2024/2025. BENEIN names MYB, HDAC2, FOXA2; knockdown reverts colon cancer cells in dishes and mice. |
 | [optogenetics-nobel-2026.md](optogenetics-nobel-2026.md) | 2026 Nobel. Light-gated neuron control. Method, not a drug. |
 | [psilocybin-aging.md](psilocybin-aging.md) | npj Aging 2025. Psilocin delays cell senescence; monthly psilocybin raised survival in old female mice. No human aging trial. |
+| [lrp1-amyloid-clearance.md](lrp1-amyloid-clearance.md) | 2025 mouse study. LRP1 polymersomes lowered brain amyloid. Tweet overstated the speed. |
+| [urolithin-a-hfpef.md](urolithin-a-hfpef.md) | Science Advances 2026. Urolithin A improved relaxation in a mouse stiff-heart model. |
+| [heart-transplant-biological-age.md](heart-transplant-biological-age.md) | 2026 preprint. Graft methylation age tracks the recipient. |
+| [jhu-protein-switch-prodrug.md](jhu-protein-switch-prodrug.md) | 2011–2014 dish work, misdated as 2026. Delivery unsolved. |
 | [rumor-photon-memory-erasure.md](rumor-photon-memory-erasure.md) | Checked and rejected. No human photon memory eraser. |
 | [memory-light-rumor.md](memory-light-rumor.md) | Same rumor, earlier note. |
-
-Core clinical inventory remains in the repo README (bone MSCs, lung, vessels, clock, detection).
