@@ -6,6 +6,8 @@ Read [ARSENAL.md](../ARSENAL.md) first. It is the consolidated file. The notes b
 
 | File | What it is |
 |---|---|
+| [polylaminin.md](polylaminin.md) | Spinal Cord 2026. Laminin polymer injected after acute complete injury. Safety pilot, not proof it works. |
+| [jonathan-tortoise.md](jonathan-tortoise.md) | Science Advances 2026. 194-year-old tortoise. 287 variants and a stable epigenome. Not a drug. |
 | [15-pgdh-cartilage.md](15-pgdh-cartilage.md) | Stanford Science 2025. 15-PGDH inhibitor regenerates hyaline cartilage in aged and injured mice and human explants. |
 | [ai-newton.md](ai-newton.md) | arXiv:2504.01538. Concept-driven rediscovery of Newtonian laws. Method to point at biology. |
 | [hevin-sparcl1.md](hevin-sparcl1.md) | Aging Cell 2025. Astrocyte Hevin overexpression improved memory in middle-aged mice without clearing plaques. |
