@@ -46,6 +46,8 @@ A review, not a new trial. It summarizes animal and earlier work in which n-3 fa
 
 **Optogenetics.** 2026 Nobel in Physiology or Medicine: Deisseroth, Hegemann, Nagel. A research switch for defined neurons. Human use so far is mostly the eye, not a brain eraser. Does not by itself extend lifespan.
 
+**YB002 (YouthBio).** Brain-targeted partial reprogramming aimed at Alzheimer’s. Not yet dosed. Same family as ER-100, earlier stage.
+
 ## Heart
 
 **Urolithin A in stiff-heart failure.** Su et al., *Science Advances* 2026;12(34). DOI [10.1126/sciadv.aec8088](https://doi.org/10.1126/sciadv.aec8088).
@@ -55,6 +57,8 @@ In a mouse model of heart failure with preserved ejection fraction, one week of 
 **A transplanted heart takes the host’s age.** Poganik et al., bioRxiv, 17 Sep 2026. DOI [10.64898/2026.09.15.751836](https://doi.org/10.64898/2026.09.15.751836).
 
 Old mouse grafts looked younger in young hosts. Young grafts aged faster in old hosts. The host’s own clock did not move the other way. A small human set pointed the same direction. Preprint. Not evidence that young blood rewinds your own heart. The neighborhood can overwrite a local edit.
+
+**Early heart-muscle implants.** STM-01 and related iPSC patches and spheroids (BioVAT-HF, Heartseed). Safety and small function signals only.
 
 ## Lungs
 
@@ -68,21 +72,27 @@ Old mouse grafts looked younger in young hosts. Young grafts aged faster in old 
 
 **REGEND001.** A patient’s own bronchial basal cells returned by bronchoscope (Regend Therapeutics). The furthest version of this idea is in China. The U.S. path is early.
 
+## Liver
+
+**RTX001.** Resolution Therapeutics. Engineered autologous macrophages for decompensated cirrhosis. EMERALD Phase 1/2 dosing complete September 2026. Interim expected Q4 2026.
+
 ## Legs and vessels
 
 **AMG0001 / Collategene.** Intramuscular HGF plasmid to grow small vessels. Faster ulcer healing in a limb-ischemia phase 2 (LEGenD-1). Not U.S.-approved.
 
 **Humacyte ATEV (Symvess).** Lab-grown human vessel. Approved for some trauma repairs. Peripheral artery disease and critical-limb use are still in trials.
 
-## Joints and bone
+## Joints, bone, and muscle
 
 **15-PGDH inhibitor.** Singla, Blau, Bhutani et al., *Science* 2025. DOI [10.1126/science.adx6649](https://doi.org/10.1126/science.adx6649). PMID 41308124. Tool compound SW033291.
 
 15-PGDH is about twice as high in aged mouse knee cartilage as in young cartilage. Inhibiting it regenerated hyaline cartilage, not scar cartilage, in aged mice, in mice after an ACL-type injury, and in human osteoarthritic knee explants. Existing chondrocytes changed job. Stem cells were not the driver. No human joint trial. A related oral inhibitor has been studied in muscle, not knees.
 
-**Glycocalyx-edited marrow cells.** Moraleda et al., *Cell* 2026. [NCT02566655](https://clinicaltrials.gov/study/NCT02566655).
+**Glycocalyx-edited marrow cells.** Moraleda et al., *Cell*, online 11 Sep 2026. DOI 10.1016/j.cell.2026.08.017. [NCT02566655](https://clinicaltrials.gov/study/NCT02566655).
 
-A person’s own marrow cells given a bone-homing sugar tag, one IV dose. Fracture rate fell in 10 women. No randomized control. Many were also on standard drugs.
+A person’s own marrow cells given a bone-homing sugar tag (sialylated Lewis X), one IV dose. Ten women, ages 51–72. Fragility fractures fell from 8 events per year in the two years before to 0.5 per year in the two years after. No randomized control. Many were also on standard drugs. Cells were not proven to engraft.
+
+**Apitegromab-class myostatin blockade.** Muscle-sparing antibody. SMA decision window 2026. Obesity lean-mass data exist. Use against frailty is still a hypothesis.
 
 ## Tumor
 
@@ -107,6 +117,12 @@ Joint knockdown of MYB, HDAC2, and FOXA2 pushed colon cancer cells toward normal
 Psilocin delayed senescence in human cells (about 29% more doublings at 10 µM, about 57% at 100 µM) and preserved telomeres. In female mice started at 19 months, monthly oral treatment left 24 of 30 alive versus 14 of 28 on vehicle after 10 months. One sex, late start, survival to a cutoff rather than a finished lifespan curve. No human aging trial. Schedule I in the United States. The published mouse protocol is not a dose for a person.
 
 **Epitalon.** Marketed as a telomerase peptide. Human evidence is weak. Kept on the list so it is not confused with the real shelf. Not a medicine.
+
+## Far repair, not a 2030 product
+
+**SP6 / SP8 digit program.** PNAS 2026. Conserved epidermal factors in axolotl, zebrafish, and mouse digit tips. An injury-enhancer AAV driving FGF8 partly rescued mouse digit-tip bone. Not a human limb.
+
+**Limb-progenitor factors.** Prdm16, Zbtb16, and Lin28a can push mouse cells toward a limb-progenitor state. Human dish work is early.
 
 ## Method, not a dose
 
